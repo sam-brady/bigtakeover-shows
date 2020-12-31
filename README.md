@@ -46,8 +46,8 @@ Explore the interactive map below here: https://sam-brady.github.io/bigtakeover-
 
 Explore the interactive map below here:   https://sam-brady.github.io/bigtakeover-shows/pin_map.html
 
-![Image description](https://github.com/sam-brady/bigtakeover-shows/blob/master/images/Screen%20Shot%202020-04-20%20at%2012.27.08%20PM.png)
+
 
 ![Image description](https://github.com/sam-brady/bigtakeover-shows/blob/master/images/Screen%20Shot%202020-04-20%20at%2012.27.39%20PM.png)
 
-![Image description](https://github.com/sam-brady/bigtakeover-shows/blob/master/images/Screen%20Shot%202020-04-20%20at%2012.28.07%20PM.png)
+
